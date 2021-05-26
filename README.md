@@ -1,3 +1,3 @@
 # User-BoilerPlate
 
-Cookies,jwt
+Node JS template with basic middlewares and User Functionality
